@@ -132,7 +132,7 @@ i {
     &:before {
         content:'';
         position: absolute;
-        background: url(./img/Eu.jpg);
+        background: url(img/Eu.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size:100%;
