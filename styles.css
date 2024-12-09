@@ -162,12 +162,12 @@ i {
 
         .fa-universal-access {
             position: absolute;
-        color:var(--secondary-color);
-        opacity:0.2;
-        font-size: 5rem;
-        right: 70px;
-        top:10px;
-        transform: rotate(45deg);
+        color:var(--primary-color);
+            opacity:0.05;
+            font-size: 15rem;
+            right: 0px;
+            top: 0;
+            transform: rotate(45deg);
         }
     }
 
